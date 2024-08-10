@@ -9,8 +9,11 @@ A IA escolhida foi o Copilot do Windows 11 junto com a ferramenta MariTalk.
 
 ## 🤖 Tecnologias Utilizadas
 Copilot do Windows 11 Pro
+
 ![localImage](./img/01.png)
+
 MariTalk
+
 ![localImage](./img/02.png)
 
 ## 🧐 Processo de Criação
