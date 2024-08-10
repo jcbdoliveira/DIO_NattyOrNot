@@ -1,23 +1,29 @@
 # DIO_NattyOrNot
 Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!
 
-# Título do Projeto Extremamente Aesthetic ;)
+# Inspiração Biológica nas redes Neurais Artificiais.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei uma IA generativa para escrever um texto sobre como a inspiração biológica pode contribuir para as redes neurais artificiais.
+A IA escolhida foi o Copilot do Windows 11 junto com a ferramenta MariTalk.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot do Windows 11 Pro
+![localImage](./img/01.png)
+MariTalk
+![localImage](./img/02.png)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o seguinte pronpt para gerar o texto
+
+```
+Como podemos utilizar a inspiração biológica no aprimoramento das redes neurais artificiais.
+
+```
+Este pronpt foi inserido no Copilot do Windows 11 e depois submeti o texto a IA MariTalk para revisão e aprimoramento.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-
 As redes neurais, inspiradas no funcionamento do cérebro humano, são uma ferramenta poderosa no campo do aprendizado de máquina. No entanto, elas não estão limitadas apenas ao nosso entendimento da biologia humana; podem aprender com outros sistemas naturais e até mesmo com animais. Vamos explorar como isso acontece:
 
 1. **Inspiração Biológica**:
